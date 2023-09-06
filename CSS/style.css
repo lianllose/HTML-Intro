@@ -1,0 +1,11 @@
+h2 {
+    background-color: cornflowerblue;
+    color: lightsteelblue;
+}
+h3 {
+    color: cadetblue;
+}
+table, th, td {
+    border: 5px solid black;
+    color: royalblue;
+}
